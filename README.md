@@ -6,17 +6,17 @@
 
 <!-- Blue-White Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3,ffffff&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Header Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Header Wave">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-✨ I'm a **Semester 5 Informatics Engineering student at PENS** and a passionate **Full Stack Developer** from West Java, Indonesia.  
+✨ I'm a **Semester 5 Informatics Engineering student at PENS** and a passionate **Full Stack Developer** from West Java, Indonesia.
 
 💡 I love building impactful applications that solve real-world problems.  
-🔥 With high enthusiasm, I’m dedicated to improving my skills and staying up-to-date with emerging technologies.  
+🔥 With high enthusiasm, I’m dedicated to improving my skills and staying up-to-date with emerging technologies.
 
 ---
 
@@ -41,17 +41,18 @@
 
 I’m currently leveling up my skills and pushing boundaries in:
 
-- 🌐 **Laravel & React.js** for building dynamic and robust web apps.  
-- ☁️ **Cloud Technologies (AWS)** for scalable and modern development.  
-- ⚡ **Clean code architecture** with advanced JavaScript, PHP, and Node.js.  
+- 🌐 **Laravel & React.js** for building dynamic and robust web apps.
+- ☁️ **Cloud Technologies (AWS)** for scalable and modern development.
+- ⚡ **Clean code architecture** with advanced JavaScript, PHP, and Node.js.
 
 ### 📚 Next on My Learning List:
-- 📱 **Mobile App Development** (Flutter / React Native).  
-- 🚀 **Next.js** for high-performance web applications.  
-- 🖥️ **Microservices architecture** for scalable solutions.  
-- 🎨 **UI/UX design principles** to build delightful user experiences.  
 
-💪 _“I’m passionate about learning and always hungry for challenges to grow as a software engineer.”_  
+- 📱 **Mobile App Development** (Flutter / React Native).
+- 🚀 **Next.js** for high-performance web applications.
+- 🖥️ **Microservices architecture** for scalable solutions.
+- 🎨 **UI/UX design principles** to build delightful user experiences.
+
+💪 _“I’m passionate about learning and always hungry for challenges to grow as a software engineer.”_
 
 ---
 
@@ -80,5 +81,5 @@ I’m currently leveling up my skills and pushing boundaries in:
 
 <!-- Blue-White Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3,ffffff&height=150&section=footer" alt="Footer Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Wave">
 </p>
