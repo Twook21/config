@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-[cite_start]As a **Semester 5 Informatics Engineering student at Politeknik Elektronika Negeri Surabaya (PENS)** [cite: 5, 9, 12][cite_start], I'm a passionate **Full Stack Developer** [cite: 5] from West Java, Indonesia. My journey is focused on becoming an expert software engineer by continuously exploring and mastering modern technologies. [cite_start]I have hands-on experience in developing over 10 web applications, primarily utilizing **Laravel** for robust backends and **React.js** for dynamic frontends[cite: 5].
+As a **Semester 5 Informatics Engineering student at Politeknik Elektronika Negeri Surabaya (PENS)**, I'm a passionate **Full Stack Developer** from West Java, Indonesia. My journey is focused on becoming an expert software engineer by continuously exploring and mastering modern technologies. I have hands-on experience in developing over 10 web applications, primarily utilizing **Laravel** for robust backends and **React.js** for dynamic frontends.
 
 **What drives me:**
 * 💡 Building impactful applications that solve real-world problems.
 * 🌱 Mastering frameworks and programming languages highly demanded by the industry.
 * 🎯 Evolving from a skilled developer to a comprehensive software engineer.
-* [cite_start]🚀 Maintaining enthusiasm for continuous learning and adaptation to emerging technologies[cite: 60].
+* 🚀 Maintaining enthusiasm for continuous learning and adaptation to emerging technologies.
 
 ---
 
@@ -56,8 +56,8 @@ My toolkit for crafting digital solutions includes:
 My current efforts are dedicated to:
 * 📈 **Growing** from a capable developer to an expert software engineer.
 * 💡 **Mastering** industry-demanded frameworks & languages for efficient solutions.
-* [cite_start]🏢 **Building** real-world applications and gaining industry experience during my Full Stack Web Developer internship at **Office Perwakilan YPLP PGRI Provinsi Jawa Barat** (October 2024 - June 2025).
-* [cite_start]☁️ **Exploring** AWS cloud architecture and modern development practices, backed by certifications like **AWS Academy Cloud Foundations**.
+* 🏢 **Building** real-world applications and gaining industry experience during my Full Stack Web Developer internship at **Office Perwakilan YPLP PGRI Provinsi Jawa Barat** (October 2024 - June 2025).
+* ☁️ **Exploring** AWS cloud architecture and modern development practices, backed by certifications like **AWS Academy Cloud Foundations**.
 
 My learning roadmap is set to include:
 * 🚀 **Deepening** Laravel & React.js expertise for robust and dynamic web applications.
@@ -65,11 +65,11 @@ My learning roadmap is set to include:
 * ⚡ **Next.js** for building highly performant and scalable modern web applications.
 * 💪 **Advanced** JavaScript, PHP & Node.js patterns for clean and efficient code.
 
-[cite_start]_I am always eager to learn what the industry needs next and embrace new challenges._ [cite: 60]
+_I am always eager to learn what the industry needs next and embrace new challenges._
 
 ---
 
-## 💻 My GitHub Activity & Stats
+## 📈 My GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Akmal's GitHub Stats"/>
@@ -85,7 +85,7 @@ My learning roadmap is set to include:
 
 ## 💫 Let's Connect!
 
-I'm an aspiring expert software engineer seeking opportunities to grow and contribute to innovative projects. [cite_start]I'm always enthusiastic about learning new technologies and frameworks, and I thrive in collaborative environments with a strong team-oriented mindset.
+I'm an aspiring expert software engineer seeking opportunities to grow and contribute to innovative projects. I'm always enthusiastic about learning new technologies and frameworks, and I thrive in collaborative environments with a strong team-oriented mindset.
 
 <p align="left">
   <a href="https://linkedin.com/in/akmal-bintang-budiawan-910916280" target="_blank">
