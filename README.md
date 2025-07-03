@@ -66,5 +66,5 @@ Aspiring expert software engineer seeking opportunities to grow and contribute t
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=minimal&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?Twook21&show_icons=true&theme=minimal&hide_border=true" alt="GitHub Stats"/>
 </div>
