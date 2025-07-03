@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&width=500&center=true&lines=Full+Stack+Developer;Crafting+Digital+Solutions;Building+Web+Applications;Passionate+Learner" alt="Typing SVG" />
 </p>
 
-<!-- Wave Animation -->
+<!-- Blue-White Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Header Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3,ffffff&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Header Wave">
 </p>
 
 ---
@@ -71,14 +71,14 @@ I’m currently leveling up my skills and pushing boundaries in:
 
 ---
 
-<!-- Cute Coder Animations -->
+<!-- Three Cute Coder Cats Animations -->
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coder Cat">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Astronaut">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" alt="Panda Programmer">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Coder Cat 1">
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="150" alt="Coder Cat 2">
+  <img src="https://media.giphy.com/media/13borq7Zo2kulO/giphy.gif" width="150" alt="Coder Cat 3">
 </div>
 
-<!-- Footer Wave -->
+<!-- Blue-White Wave Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer Wave">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3,ffffff&height=150&section=footer" alt="Footer Wave">
 </p>
