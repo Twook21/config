@@ -15,9 +15,8 @@
 
 ✨ I'm a **Semester 5 Informatics Engineering student at PENS** and a passionate **Full Stack Developer** from West Java, Indonesia.  
 
-🌱 Currently focused on **Laravel**, **React.js**, and mastering **cloud technologies** with AWS.  
-💡 I enjoy creating impactful applications that solve real-world problems.  
-🎯 On a mission to evolve from a skilled developer to a professional software engineer.  
+💡 I love building impactful applications that solve real-world problems.  
+🔥 With high enthusiasm, I’m dedicated to improving my skills and staying up-to-date with emerging technologies.  
 
 ---
 
@@ -38,12 +37,21 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus & Learning Roadmap
 
-- 🌐 Laravel & React.js for modern web apps
-- ☁️ Cloud architecture with AWS
-- 📱 Exploring Mobile App Development (Android/iOS)
-- ⚡ Advanced JavaScript & PHP patterns
+I’m currently leveling up my skills and pushing boundaries in:
+
+- 🌐 **Laravel & React.js** for building dynamic and robust web apps.  
+- ☁️ **Cloud Technologies (AWS)** for scalable and modern development.  
+- ⚡ **Clean code architecture** with advanced JavaScript, PHP, and Node.js.  
+
+### 📚 Next on My Learning List:
+- 📱 **Mobile App Development** (Flutter / React Native).  
+- 🚀 **Next.js** for high-performance web applications.  
+- 🖥️ **Microservices architecture** for scalable solutions.  
+- 🎨 **UI/UX design principles** to build delightful user experiences.  
+
+💪 _“I’m passionate about learning and always hungry for challenges to grow as a software engineer.”_  
 
 ---
 
@@ -63,10 +71,12 @@
 
 ---
 
-<!-- Cute Coder Cat Animation -->
-<p align="center">
+<!-- Cute Coder Animations -->
+<div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coder Cat">
-</p>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Astronaut">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="180" alt="Panda Programmer">
+</div>
 
 <!-- Footer Wave -->
 <p align="center">
